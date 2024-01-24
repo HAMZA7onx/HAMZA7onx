@@ -1,9 +1,9 @@
-<h1 align="center">Hello There<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+<h1 align="center">Hi their<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
 ### :smiley_cat: I am a student at youCode(SIMPLON)
 
-### My Name is HAMZA MESKI  😄
-### I am passionate young man about programming and technologies
+### That's me Hamza Meski 😎
+### A 22 years old passionate young man by programming and technologies
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -20,10 +20,10 @@
 📫 [![Gmail Badge](https://img.shields.io/badge/-meskihamza5@@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:meskihamza5@gmail.com)](meskihamza5@gmail.com)
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
+<h6 align="center">I ❤️ coding (probably)</h6>
 
 ------
-Credit: [AkuraDiary](https://github.com/HAMZA7onx)
+Credit: [HAMZA7onx](https://github.com/HAMZA7onx)
 
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
