@@ -1,4 +1,4 @@
-<h1 align="center">Hi their<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
+
 
 ### That's me Hamza Meski 😎
 ### A 22 years old passionate young man by programming and technologies
